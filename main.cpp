@@ -1,6 +1,6 @@
 #include <iostream>
 
-// Homework 5 — Your Name
+// Homework 5 — Jesus
 // CIS 5 Week 05 · Rule engine lite
 
 int main() {
