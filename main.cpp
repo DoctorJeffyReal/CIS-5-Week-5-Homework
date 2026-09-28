@@ -13,6 +13,8 @@ int main() {
   std::cout << "Attendance percent? ";
   std::cin >> attendance;
 
+  // Edge values: score 69 / 70 / 71 and attendance 79 / 80 / 81.
+  
   // Invalid values must be checked first because a score outside 0..100 is not a real decision and would ruin the rule chain.
   if (score < 0 || score > 100) {
     std::cout << "Result: invalid score\n";
