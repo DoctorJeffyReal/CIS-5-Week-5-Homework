@@ -11,7 +11,7 @@ Work without a working video link is incomplete.
 
 In the video: at least three runs — one invalid input, one that lands in the `&&` branch, one that lands in the `||` branch. Say which branch will fire before you press Enter.
 
-**Your demo:** _add your link here_
+**Your demo:** https://www.youtube.com/watch?v=4MqqxvxQK1c
 
 
 ## What to build
